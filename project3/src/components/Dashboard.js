@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TrendingUp, TrendingDown, PiggyBank, Target, Shield, Eye, EyeOff, Plus, Settings, Bell } from 'lucide-react';
+import { TrendingUp, PiggyBank, Target, Shield, Eye, EyeOff, Plus, Settings, Bell } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import './Fintech.css';
 

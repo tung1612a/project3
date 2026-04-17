@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PiggyBank, Zap, Target, Info, CheckCircle, AlertCircle } from 'lucide-react';
+import { PiggyBank, Zap, Info, CheckCircle, AlertCircle } from 'lucide-react';
 import './Fintech.css';
 
 function MicroInvesting() {
